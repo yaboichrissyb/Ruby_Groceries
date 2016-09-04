@@ -1,0 +1,12 @@
+====
+1_book 12.49 true false
+1_music_CD 14.99 false false
+1_chocolate_bar 0.85 true false
+====
+1_imported_box_of_chocolates 10.00 true true
+1_imported_bottle_of_perfume 47.50 false true
+====
+1_imported_bottle_of_perfume 27.99 false true
+1_bottle_of_perfume 18.99 false false
+1_packet_of_headache_pills 9.75 true false
+1_box_of_imported_chocolates 11.25 true true
